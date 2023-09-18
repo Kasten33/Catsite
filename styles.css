@@ -1,0 +1,41 @@
+footer{
+    background-color: grey;
+    text-align: center;
+
+
+}
+.dex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 400px;
+    flex-basis: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, h2, h3{
+    background-color: grey;
+    text-align: center;
+    
+}
+li, ul{
+    background-color: grey;
+}
+legend{ 
+    margin: auto;
+}
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: lightblue;
+}
